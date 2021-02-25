@@ -33,5 +33,5 @@ ALERT CODE:
   3. Change gate (landing gate or boarding gate depending on the screen you are). However, airport gates are available for both landing and boarding).
   4. Change check-in gate (departures) or luggage belt (arrivals).
 
-
+![](https://github.com/gabri-aero/controlPanel/blob/main/panel.PNG)
 

@@ -1,0 +1,40 @@
+IB 375/08:16/Iberia/Tenerife-Norte.
+AA 1026/08:32/AmericanAirline/NY JFK.
+IB 447/08:35/Iberia/Sao Paulo.
+IB 632/08:50/Iberia/Copenhague.
+AF 335/08:53/AirFrance/Lyon.
+FR 2312/09:08/Ryanair/Bergamo.
+TP 045/09:32/TAP/Lisboa.
+IB 111/09:50/Iberia/Vigo.
+KL 269/09:59/KLM/Amsterdam.
+AF 093/10:05/AirFrance/Paris CDG.
+PE 3312/10:14/AirEuropa/Ginebra.
+IB 672/10:31/Iberia/Budapest.
+FR 1981/10:48/Ryanair/Ibiza.
+MS 188/11:10/EgyptAir/El Cairo.
+UX 0622/11:20/AirEuropa/Valencia.
+IB 730/11:33/Iberia/Almeria.
+AZ 009/11:55/Alitalia/Pisa.
+SU 771/12:06/Aeroflot/Moscu.
+IB 401/12:18/Iberia Express/Lanzarote.
+EK 4022/12:35/Emirates/Dubai.
+AT 519/12:44/Royal Air Maroc/Casablanca.
+LH 993/13:00/Lufthansa/Frankfurt.
+IB 225/13:06/Iberia/Tenerife-Norte.
+AA 988/13:30/AmericanAirline/NY JFK.
+IB 355/13:45/Iberia/Sao Paulo.
+IB 808/13:52/Iberia/Copenhague.
+AF 881/14:02/AirFrance/Lyon.
+FR 3722/14:19/Ryanair/Bergamo.
+TP 047/14:40/Air Portugal/Lisboa.
+IB 772/14:45/Iberia/Vigo.
+KL 141/14:55/KLM/Amsterdam.
+AF 800/14:59/AirFrance/Paris CDG.
+UX 722/15:20/AirEuropa/Ginebra.
+IB 531/15:34/Iberia/Budapest.
+FR 4522/15:50/Ryanair/Ibiza.
+UX 604/16:07/AirEuropa/Valencia.
+MS 811/16:21/EgyptAir/El Cairo.
+IB 219/16:26/Iberia/Almeria.
+IB 229/16:45/Iberia/Barcelona.
+SU 384/17:01/Aeroflot/Moscu.

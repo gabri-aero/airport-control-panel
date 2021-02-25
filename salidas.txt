@@ -1,0 +1,42 @@
+LH 611/08:08/Lufthansa/Berlin-Tegel/95/40.
+UX 990/08:22/AirEuropa/Paris-Orly/100/40.
+FR 6410/08:31/Ryanair/Dublin/90/35.
+BA 455/08:42/BritishAirways/London Stansted/100/40.
+QR 3311/08:53/QatarAirways/Doha/110/45.
+BA 220/09:12/BritishAirways/Lond-Heathrow/105/45.
+BA 554/09:22/BritishAirways/Liverpool/100/40.
+IB 915/09:40/Iberia/Las Palmas/90/35.
+IB 090/09:53/Iberia/Santander/90/35.
+LH 112/10:08/GermanWings/Hamburgo/95/40.
+UX 003/10:25/AirEuropa/Zurich/90/40.
+FR 7001/10:41/Ryanair/Roma/90/35.
+FR 0900/10:45/Ryanair/Mallorca/90/35.
+IB 669/11:14/Iberia/Barcelona/90/35.
+BA 008/11:25/BritishAirways/Bristol/100/40.
+IB 550/11:40/Iberia/Bilbao/90/35.
+IB 904/11:59/Iberia/Bruselas/90/35.
+LH 882/12:11/GermanWings/Munich/95/40.
+UX 099/12:22/AirEuropa/Tallin/90/40.
+FR 5220/12:31/Ryanair/Berlin-Schone/90/35.
+LH 201/12:58/Lufthansa/Dusseldorf/95/40.
+UX 009/13:02/AirEuropa/Oslo/100/40.
+LO 823/13:23/LOT/Varsovia/110/45.
+BA 054/13:46/BritishAirways/Lond-Heathrow/95/40.
+WA 324/14:09/Wizz Air/Budapest/100/40.
+IB 098/14:35/Iberia/San Francisco/105/45.
+IB 812/14:44/Iberia/Gran Canaria/90/35.
+AG 441/15:00/Aegean/Atenas/95/40.
+UX 816/15:15/AirEuropa/Zurich/90/40.
+FR 9922/15:20/Ryanair/Pisa/90/35.
+FR 5412/15:37/Ryanair/Oporto/90/35.
+IB 723/15:59/Iberia/Pamplona/90/35.
+IB 011/16:05/Iberia/Marsella/100/40.
+AH 822/16:12/Air Algerie/Argel/100/40.
+SR 085/16:22/Swiss Airlines/Zurich/90/35.
+LH 090/16:32/GermanWings/Stuttgart/95/40.
+UX 856/16:45/AirEuropa/Montevideo/110/45.
+FR 6788/17:00/Ryanair/Dublin/90/35.
+NW 980/17:10/Norwegian/Oslo/95/40.
+SB 551/17:24/Air Serbia/Belgrado/100/40.
+IB 510/17:33/Iberia/Almeria/90/40.
+BA 922/17:44/BritishAirways/Liverpool/95/40.

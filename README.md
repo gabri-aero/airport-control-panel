@@ -10,12 +10,12 @@ CTRL key is used to change between one another.
 In every screen there are different 'sub-screens' which displayed the following information:
   
   1. Departures:
-      -Check-in info: check-in desk, estimated time left, open/closed, estimated open time.
-      -Boarding info: boarding gate, estimated open time, estimated time left, open/closed, LAST CALL.
-      -Take-off info: plane state: on land, taking-off, already took-off... + estimated times.
+      - Check-in info: check-in desk, estimated time left, open/closed, estimated open time.
+      - Boarding info: boarding gate, estimated open time, estimated time left, open/closed, LAST CALL.
+      - Take-off info: plane state: on land, taking-off, already took-off... + estimated times.
   2. Arrivals:
-      -Luggage info: luggage belt, estimated times, open/closed
-      -Landing info: landing gate and plane state: already in air, landing, on land... + estimated time.
+      - Luggage info: luggage belt, estimated times, open/closed
+      - Landing info: landing gate and plane state: already in air, landing, on land... + estimated time.
       
 Sub-screens are changed automathically every little time.
       

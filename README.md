@@ -26,7 +26,9 @@ Then you can introduce the number of the plane whose information you want to cha
 *NOTE!* If you want to change the first plane shown press '1', if you want to change the second plane in the list press '2' and so on.
 
 Once you have chosen the plane, you will have to introduce the corresponding alert code. It is shown below:
+
 ALERT CODE:
+
   0. Delete a previous alert.
   1. Delay. Then you will have to introduce the minutes of delay.
   2. Flight cancelled.
